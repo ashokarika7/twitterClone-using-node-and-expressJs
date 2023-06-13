@@ -53,3 +53,7 @@ Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkpvZ
 {
    "tweet": "The Mornings..."
 }
+###
+
+DELETE http://localhost:3000/tweets/1/
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkpvZUJpZGVuIiwiaWF0IjoxNjg2NTUxODAyfQ.0jPyRsXuuxnKkAptadN5p1mzAlQW42Bolc4BUfcItOo
